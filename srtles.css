@@ -167,6 +167,29 @@ footer {
         font-size: 16px;
         padding: 6px 10px;
     }
+
+    .info {
+        background-color: #f6f6f6;
+    }
+
+    .info .left, .info .right {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .info .left h1 {
+        font-size: 50px;
+    }
+
+    .info .left p {
+        font-size: 18px;
+    }
+
+    .info .right img {
+        object-fit: cover;
+        max-height: 400px;
+        width: 100%; 
+    }
 }
 
 
@@ -219,6 +242,29 @@ footer {
     .intro .left button {
         font-size: 18px;
         padding: 8px 12px;
+    }
+
+    .info {
+        background-color: #f6f6f6;
+    }
+
+    .info .left, .info .right {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .info .left h1 {
+        font-size: 50px;
+    }
+
+    .info .left p {
+        font-size: 18px;
+    }
+
+    .info .right img {
+        object-fit: cover;
+        max-height: 400px;
+        width: 100%; 
     }
 }
 
